@@ -1,0 +1,60 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center Candy: Wrapped Lollipop / Bonbon with stripes and gloss -->
+    <!-- Shadow -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M54,58m-24,0a24,24 0 1,0 48,0a24,24 0 1,0 -48,0" />
+    <!-- Left Candy wrapper twist -->
+    <path
+        android:fillColor="#FF4081"
+        android:pathData="M34,54 L20,44 L22,54 L18,64 Z" />
+    <path
+        android:fillColor="#FF80AB"
+        android:pathData="M34,54 L22,46 L23,54 L20,60 Z" />
+    <!-- Right Candy wrapper twist -->
+    <path
+        android:fillColor="#FF4081"
+        android:pathData="M74,54 L88,44 L86,54 L90,64 Z" />
+    <path
+        android:fillColor="#FF80AB"
+        android:pathData="M74,54 L86,46 L85,54 L88,60 Z" />
+    <!-- Main Round Candy Body (Pink / Magenta) -->
+    <path
+        android:fillColor="#E91E63"
+        android:pathData="M54,54m-22,0a22,22 0 1,0 44,0a22,22 0 1,0 -44,0" />
+    <!-- Candy Diagonal Stripes (White / Lemon) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,36 C45,34 50,33 55,33 L35,53 C34,48 36,42 40,36 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M65,36 L36,65 C40,69 46,72 52,73 L73,52 C74,46 71,40 65,36 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M50,33 C46,34 42,37 38,40 L68,70 C71,67 73,63 74,59 Z" />
+    <!-- Glossy Highlight Arc -->
+    <path
+        android:fillColor="#80FFFFFF"
+        android:pathData="M44,40 C50,36 58,36 64,40 C61,42 56,40 50,42 C46,43 44,42 44,40 Z" />
+    <!-- Sparkle Stars -->
+    <!-- Top-Right Sparkle -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M76,30 L78,36 L84,38 L78,40 L76,46 L74,40 L68,38 L74,36 Z" />
+    <!-- Bottom-Left Sparkle -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M32,68 L33.5,72 L37.5,73.5 L33.5,75 L32,79 L30.5,75 L26.5,73.5 L30.5,72 Z" />
+    <!-- Top-Left Mini Star -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,28 L36,31 L39,32 L36,33 L35,36 L34,33 L31,32 L34,31 Z" />
+    <!-- Bottom-Right Mini Star -->
+    <path
+        android:fillColor="#FF9100"
+        android:pathData="M78,70 L79,73 L82,74 L79,75 L78,78 L77,75 L74,74 L77,73 Z" />
+</vector>

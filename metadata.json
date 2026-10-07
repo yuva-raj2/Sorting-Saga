@@ -1,0 +1,6 @@
+{
+  "name": "Candy Burst",
+  "description": "Vibrant swipe-to-match candy puzzle game featuring cascading combos, dazzling particle bursts, and juicy power-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
